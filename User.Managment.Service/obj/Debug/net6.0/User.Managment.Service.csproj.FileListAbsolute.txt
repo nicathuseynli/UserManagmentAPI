@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\User.Managment.Service.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\User.Managment.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\User.Managment.Service.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\User.Managment.Service.AssemblyInfo.cs
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\User.Managment.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\bin\Debug\net6.0\User.Managment.Service.deps.json
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\bin\Debug\net6.0\User.Managment.Service.dll
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\bin\Debug\net6.0\User.Managment.Service.pdb
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\User.Managment.Service.dll
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\refint\User.Managment.Service.dll
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\User.Managment.Service.pdb
+C:\Users\user\source\repos\User.Managment.API\User.Managment.Service\obj\Debug\net6.0\ref\User.Managment.Service.dll

@@ -39,7 +39,7 @@ namespace User.Managment.Service.Services
             }
             catch
             {
-                //log an error message or throw an exception or both.
+                //herhansi exceptiona qarsi bura loglama edile biler
                 throw;
             }
             finally
